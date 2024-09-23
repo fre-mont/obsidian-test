@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "50e94dbf892f4693",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a3a66e4446caffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f8bcb602364bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "216d105aadacfe24",
+    "type": "split",
+    "children": [
+      {
+        "id": "3218b87f51461cac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06453fc1b0ba2246",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c37462835fd9992",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Docker",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ef90d5efc37528b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb060dd9bdcceecd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5106964111328
+  },
+  "right": {
+    "id": "0eb73da7290c404d",
+    "type": "split",
+    "children": [
+      {
+        "id": "28032371441ec688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23aac11a92eb4e36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-09-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "601e3aaf87c6e5eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-09-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f622fdcbd6e97fa8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "200fb75c165123d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-09-23.md"
+              }
+            }
+          },
+          {
+            "id": "46862e2f15c76597",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "68fb1deb60a56795",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Copilot Chat": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "eb060dd9bdcceecd",
+  "lastOpenFiles": [
+    "Spaces/Home",
+    "Spaces",
+    "2024-09-23.md",
+    "[EMAGE] 학습 이어서 하기 .md",
+    "Spaces/ddddd/Gesture.canvas",
+    "Spaces/ddddd/Untitled.md",
+    "Spaces/ddddd/ddddd.md",
+    "Spaces/ddddd",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Spaces.md",
+    "TTS 변경하기 .md",
+    "[UNITY] 텍스트 화면에 표시.md",
+    "[UNITY] FBX 파일 업로드.md",
+    "[UNITY] 음성 wav 파일 업로드.md",
+    "[UNITY] UI 글꼴 크기 .md",
+    "[UNITY] 플레이 화면 녹화 .md",
+    "images/Pasted image 20240830155320.png",
+    "images/Pasted image 20240830155403.png",
+    "images/Pasted image 20240830155541.png",
+    "images/Pasted image 20240830155702.png",
+    "images/Pasted image 20240830153042.png",
+    "images/Pasted image 20240830153141.png",
+    "Pasted image 20240830153042.png",
+    "Pasted image 20240830155702.png",
+    "Pasted image 20240830155541.png",
+    "Pasted image 20240830155403.png",
+    "[Inference] Facial pose 없음.md",
+    "2024-08-30.md",
+    "[Inference] 제스처 끊김 문제 .md",
+    "2024-08-29.md",
+    "2024-08-19.md",
+    "cuda setup.md",
+    "2024-08-21.md",
+    "2024-08-22.md",
+    "2024-08-27.md",
+    "[UNITY] 캐릭터 로드 .md",
+    "Ref/Mini-Me- An Adaptive Avatar for Mixed Reality.pdf",
+    "Empathic AuREA.md",
+    "Emotional TTS.md",
+    "Docker build.md",
+    "Ref/Gestures_vs._Emojis_Comparing_Non-Verbal_Reaction_Visualizations_for_Immersive_Collaboration.pdf",
+    "images",
+    "새 폴더",
+    "Ref/Animo_ Sharing Biosignals on a Smartwatch for Lightweight Social Connection.pdf",
+    "Ref/Virtual Big Head_ Analysis of Human Perception and Comfort of.pdf",
+    "Ref/Gestures_vs._Emojis_Comparing_Non-Verbal_Reaction_Visualizations_for_Immersive_Collaboration.pdf.crdownload",
+    "Untitled/Untitled.canvas",
+    "Untitled.canvas",
+    "무제 파일.canvas"
+  ]
+}
